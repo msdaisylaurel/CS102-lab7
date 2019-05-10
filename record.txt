@@ -1,0 +1,3 @@
+Name: daisy; ID: 294; Course name: trig
+Name: john; ID: 518; Course name: trig
+Name: stacy; ID: 376; Course name: trigono
